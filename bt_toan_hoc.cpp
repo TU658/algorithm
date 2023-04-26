@@ -20,6 +20,7 @@ void nguyen_to_1_n(int n){
     cout << endl << "tu 1 den n co : " << cnt << " so nguyen to " << endl;
 }
 
+
 //ktra so nguyen to tu x - n roi in ra so do dung while, for deu dc
 void nguyen_to_x_n(int x, int n){
     int cnt = 0;
