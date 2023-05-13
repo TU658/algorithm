@@ -89,6 +89,6 @@ void check_6(string s){
     }
 }
 int main(){
-    check_6("vu van tu");
+    check5("v u .van.tu");
     return 0;
 }
